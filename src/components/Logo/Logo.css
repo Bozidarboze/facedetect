@@ -1,0 +1,16 @@
+.Tilt {
+  width: 150px;
+  height: 150px;
+}
+
+.logo {
+  margin: 15%;
+  width: 70%;
+}
+
+@media (max-width: 480px) {
+  .Tilt {
+    width: 50px;
+    height: 50px;
+  }
+}

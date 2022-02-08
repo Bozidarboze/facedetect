@@ -1,0 +1,16 @@
+.title {
+  font-size: 1.5rem;
+}
+
+.entries {
+  font-size: 3rem;
+}
+
+@media (max-width: 480px) {
+  .title {
+    font-size: 1rem;
+  }
+  .entries {
+    font-size: 2rem;
+  }
+}

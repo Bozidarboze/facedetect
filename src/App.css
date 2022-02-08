@@ -1,0 +1,40 @@
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.particles {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+}
+
+.border {
+  border: 1px solid #05aed6;
+}
+
+button {
+  cursor: pointer;
+  background: none;
+  color: #05aed6;
+  border-radius: 5px;
+}
+
+.input-button {
+  color: #05aed6;
+}
+
+input:focus {
+  outline: none;
+}
+
+fieldset {
+  color: #05aed6;
+}
+
+p {
+  color: #05aed6;
+}

@@ -1,0 +1,22 @@
+.form {
+  width: 700px;
+}
+
+.input {
+  width: 70%;
+}
+
+.btn {
+  width: 25%;
+  min-width: 105px;
+}
+
+.message {
+  font-size: 1.5rem;
+}
+
+@media (max-width: 480px) {
+  .message {
+    font-size: 1rem;
+  }
+}
